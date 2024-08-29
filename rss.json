@@ -1,0 +1,19 @@
+{
+  "statistical_data": {
+    "friends_num": 21, 
+    "active_num": 15,
+    "error_num": 6, 
+    "article_num": 5, 
+    "last_updated_time": "2024-06-27 20:22:06"
+  }, 
+  "article_data": [
+    {"floor": 1, 
+      "title": "fsadfsdfsdfasf",
+      "created": "2024-06-20", 
+      "updated": "2024-06-20", 
+      "link": "https://uain.cc/", 
+      "author": "uain",
+      "avatar": "https://uain.cc/upload/snake-Light.svg"
+    }
+  ]
+}
